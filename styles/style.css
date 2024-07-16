@@ -247,6 +247,9 @@ input,select{
         width: 100%;
         margin: 1rem auto;
     }
+    .travel-inputs input{
+        width: 95%;
+    }
     .popular-section, .row-1,.row-2,.row-3{
         grid-template-columns: 1fr;
     }
